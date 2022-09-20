@@ -1,5 +1,5 @@
 # IgStarterPack
-IgStarterPack is a User Friendly bot that can grow your following in your new instagram account in an organic way!
+IgStarterPack is a User Friendly Bot that can grow your following in your new instagram account in an organic way!
 We all know how hard to start getting a following if you have 0 followers in your new account..
 So my bot will automate that procces in a 100% organic way , so dont be afraid about getting banned or something of that kind :)
 
