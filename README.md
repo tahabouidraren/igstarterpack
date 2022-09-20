@@ -20,6 +20,10 @@ After installing "instagram-private-api" all you need to do now is run "instabot
 This Bot stores 0% of your data ! So dont worry about your login info or anything else getting leaked or stolen by a third party..
 And this bot is open source so you can check it for yourself in this github page and see for yourself :)
 
+- WARNING : 
+
+Run this script only once in 24hours , or get rekt lmao O.o
+
 - Screenshots : 
 
 ![Capture](https://user-images.githubusercontent.com/59410756/191372837-289b77c4-6f65-4aad-9009-1dc043c7e0c7.PNG)
