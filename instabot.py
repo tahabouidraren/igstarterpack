@@ -3,7 +3,7 @@ import time
 
 
 print("******************************************")
-print("All copyrights belong to @ts._.taha in IG")
+print("All copyrights belong to @tahabouidraren in IG")
 print("******************************************")
 print()
 print("Script [ON]")
@@ -198,7 +198,7 @@ print("Logged out!")
 print("Script [OFF]")
 print()
 print("******************************************")
-print("All copyrights belong to @ts._.taha in IG")
+print("All copyrights belong to @tahabouidraren in IG")
 print("******************************************")
 print()
 
