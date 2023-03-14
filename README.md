@@ -32,4 +32,4 @@ Run this script only once in 24hours , or get rekt lmao O.o
 
 Enjoy!
 
-Signed : @ts._.taha
+Signed : @tahabouidraren
